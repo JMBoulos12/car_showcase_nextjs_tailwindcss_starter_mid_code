@@ -1,0 +1,1 @@
+# car_showcase_nextjs_tailwindcss_starter_mid_code
