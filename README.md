@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Description
+
+Modern Next.js 14 Application | React, Next JS 14, TypeScript, Tailwind CSS
+
+## Built with
+
+- NextJS
+- Tailwindcss
+- HeadlessUI
+
 ## Getting Started
 
 First, run the development server:
@@ -34,16 +44,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
-## Description
-
-Modern Next.js 14 Application | React, Next JS 14, TypeScript, Tailwind CSS
-
-## Built with:
-
-- NextJS
-- Tailwindcss
-- HeadlessUI
 - TypeScript
 
 ## Concepts:
